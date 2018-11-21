@@ -1,6 +1,6 @@
 {
   "dependencies" : {
-    "clean-css" : "3.4",
+    "clean-css" : "4.1.11",
     "csslint" : "0.10"
   }
 }
